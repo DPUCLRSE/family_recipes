@@ -5,5 +5,5 @@ Set of recipes as given by my grandma.
 - Hello!
 
 - pizzas (TODO)
-- sauces (TODO)
+- sauses (TODO)
 - spreads (TODO)
