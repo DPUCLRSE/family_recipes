@@ -4,6 +4,7 @@ Set of recipes as given by my grandma.
 
 - Hello!
 
-- pizzas (TODO)
+- Pizzas
+  - [base](pizzas/base.md)
 - sauces (TODO)
 - spreads (TODO)
